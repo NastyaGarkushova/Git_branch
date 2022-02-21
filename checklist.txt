@@ -2,4 +2,7 @@ ID
 Title
 Precondition
 Steps to reproduce
+ Checklists
+Expected results
 Expected result 
+ main
