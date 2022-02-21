@@ -1,0 +1,10 @@
+ID
+Summary
+Project
+Version
+Severity
+Priority
+Condition
+Steps to reproduce
+Actual result
+Expected result
